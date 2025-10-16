@@ -1,3 +1,4 @@
+// Max consecutive ones
 #include <iostream>
 #include <vector>
 
